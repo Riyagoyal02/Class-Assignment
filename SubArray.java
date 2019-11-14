@@ -16,7 +16,7 @@ public class SubArray {
 			int count=(int)((n-k+1)*(n-k+2)/(2.0));
 			System.out.println(count);
 			
-		
+	
 		
 		// TODO Auto-generated method stub
 
