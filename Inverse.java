@@ -36,7 +36,7 @@ public class BinaryNode2
             int lheight = height(root.left); 
             int rheight = height(root.right);
             if (lheight >= rheight) 
-                return(lheight+1); 
+                return(lheight+1);
             else return(rheight+1);  
         } 
     }
